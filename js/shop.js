@@ -68,6 +68,11 @@ function showSlides() {
    dot[slideIndex-1].classList.add('active');
    setTimeout(showSlides, 2000);
 }
+
+function viewQuick(){
+   document.getElementsByClassName('quick')[0].classList.toggle('action');
+}
+
 document.getElementsByClassName('tablinks')[0].click();
 function openBest(e, bid){
    const tabcontent = document.getElementsByClassName('besttabcontent');
@@ -141,3 +146,31 @@ fetch('data/shoplist.json')
 }
    )
    .catch((err) => console.log(error));
+
+
+
+   var scrollToTopBtn = document.querySelector("#scroll-to-top-btn");
+
+   window.addEventListener("scroll", function () {
+     var scrollHeight = document.documentElement.scrollTop;
+     if (scrollHeight > 300) {
+       scrollToTopBtn.style.display = "block";
+     }
+   });
+
+   scrollToTopBtn.addEventListener("click", function () {
+     window.scrollTo({
+       top: 0,
+       behavior: "smooth",
+     });
+   });
+
+   // Scroll To Bottom Button
+   var scrollToBottomBtn = document.querySelector("#scroll-to-bottom-btn");
+
+   scrollToBottomBtn.addEventListener("click", function () {
+     window.scrollTo({
+       top: document.documentElement.scrollHeight,
+       behavior: "smooth",
+     });
+   });

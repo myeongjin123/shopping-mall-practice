@@ -20,7 +20,9 @@ html,body{
 .border-right{
     border-right:1px solid #ddd;
 }
-
+a,a:link{
+    color: #555;
+}
 /***################## HEADER #####################***/
 header{
     width:100%;
@@ -766,4 +768,81 @@ footer{
 .footer-nav a:hover::after{
     transform: scaleX(1);
     transition: 300ms;
+}
+
+.quick{
+    position: fixed;
+    width: 220px;
+    height: 100%;
+    top: 0px;
+    right: -220px;
+    background: #fff;
+    border-left: 1px solid #ddd;
+    transition: all 500ms;
+    padding-top: 50px;
+}
+.quick.action{
+    right: 0px;
+}
+ul.quick-btns{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: -30px;
+    top: calc(50%);
+    transform: translateY(-50%);
+
+}
+ul.quick-btns li{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+ul.quick-btns i{
+    font-size: 18px;
+    cursor: pointer;
+}
+.quick-com{
+    padding-left: 22px;
+    padding-right: 22px;
+}
+.quick-logo{
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 15px;
+}
+.quick-logo img{
+    width: 120px;
+}
+.quick-link{
+    text-align: center;
+    border-bottom: 1px dashed #ddd;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.quick-link span{
+    display: inline-block;
+    width: 1px;
+    height: 10px;
+    background: #999;
+    margin-top: 5px;
+    vertical-align: middle;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.quick h1{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 900;
+    border-bottom: 1px solid #555;
+    position: relative;
+    margin-bottom: 20px;
+}
+.quick h1::after{
+    content: "";
+    display: block;
+    position: absolute;
+    width: 60px;
+    height: 4px;
+    background: #555;
 }
