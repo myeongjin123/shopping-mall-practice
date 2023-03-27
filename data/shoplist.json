@@ -1,257 +1,292 @@
 {
-    "shoplist" : [
+    "shoplist": [
         {
-            "img" : "./images/pd/images/001.jpg",
-            "title" : "라타스퀘어원피스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "71,000원",
-            "saleprice" : "63,900",
-            "content" : "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/001.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/002.jpg",
-            "title" : "다이아버튼블라우스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "39,000원",
-            "saleprice" : "35,100원",
-            "content" : "배색의 나염 패턴만의 아우라로 매력을 UP↑ 롤업 소매 디자인으로 투웨이 연출도 가능해요 :)",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/002.jpg",
+            "title":"엔씨카라자켓원피스",
+            "color": ["black", "pink"],
+            "delprice": "96,000원",
+            "saleprice": "91,900원",
+            "content": "투피스를 입은 듯, 입체미가 매력포인트 ! 자켓의 매력이 담겨져서 분위기도 남달라요 :)",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/003.jpg",
-            "title" : "이스틴하이스커트",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "41,000원",
-            "saleprice" : "36,900원",
-            "content" : "유니크한 디자인의 비율감 좋은 하이웨스트 스커트 ♡ 오피스룩 한벌도 입어도 남들과는 다르게 입어요",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/003.jpg",
+            "title":"라듀트위트치마세트",
+            "color": ["black", "pink", "gray"],
+            "delprice": "140,000원",
+            "saleprice": "130,900원",
+            "content": "블링블링 화사한 봄🌸을 담은 트위드 셋업~ 생기 컬러감으로 미모 업그레이드 ♡",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/004.jpg",
-            "title" : "모조더블원피스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "98,000원",
-            "saleprice" : "93,100원",
-            "content" : "클래식한 무드가 가득 느껴지는 더블버튼 디자인! 격식있는 자리에 차려입기 좋아 소장가치up↑",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/004.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/005.jpg",
-            "title" : "마루아배색원피스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "78,000원",
-            "saleprice" : "74,100원",
-            "content" : "우아한 무드로 시선을 끌어줄 배색원피스♡",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/005.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/006.jpg",
-            "title" : "체크자켓세트",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "124,000원",
-            "saleprice" : "117,800원",
-            "content" : "세련된 체크패턴의 자켓+스커트+슬랙스 셋업! 활용도에 맞게 소장해보세요",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/006.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/007.jpg",
-            "title" : "더블벨트자켓팬츠세트",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "136,000원",
-            "saleprice" : "129,200원",
-            "content" : "근사한 멋이 느껴지는 셋업 ! 세련스러운 커리어우먼으로 변신 OK !",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/007.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/008.jpg",
-            "title" : "에이렌플리츠원피스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "96,000원",
-            "saleprice" : "91,200원",
-            "content" : "여성미 물씬~ 플리츠 원피스:) 더블버튼 클래식 디자인 품격 UP",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/008.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/009.jpg",
-            "title" : "엔페플럼자켓세트",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "118,000원",
-            "saleprice" : "112,100원",
-            "content" : "세련된 분위기를 완성해주는 자켓&스커트 셋업 ! 페플럼 디자인으로 여성스러운 실루엣은 살려줘요~",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/009.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/010.jpg",
-            "title" : "브이더블벨트원피스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "75,000원",
-            "saleprice" : "55,000",
-            "content" : "더블버튼 디자인 포멀한 무드로 세련미 UP~ 화사함을 더해 부드러운 인상을 만들어줘요 :)",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/010.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/011.jpg",
-            "title" : "엠마스퀘어자켓세트",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "",
-            "saleprice" : "76,000",
-            "content" : "은은한 트위드로 미모 업그레이드~! 입기만 해도 자신감 상승되는 고급스러움",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/011.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/012.jpg",
-            "title" : "플라워진주7부원피스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "87,000원",
-            "saleprice" : "33,000",
-            "content" : "예쁨미 받고 격식미 까지 동시어필 ❣ 몸매 장점만 살려주는 머메이드 실루엣으로 만족감 100% !",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/012.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/013.jpg",
-            "title" : "엔씨카라자켓원피스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "96,000원",
-            "saleprice" : "73,000",
-            "content" : "투피스를 입은 듯, 입체미가 매력포인트 ! 자켓의 매력이 담겨져서 분위기도 남달라요 :)",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/013.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/014.jpg",
-            "title" : "라듀트위트치마세트",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "140,000원",
-            "saleprice" : "8,000",
-            "content" : "블링블링 화사한 봄🌸을 담은 트위드 셋업~ 생기 컬러감으로 미모 업그레이드 ♡",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/014.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/015.jpg",
-            "title" : "에린카라자켓팬츠세트",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "131,000원",
-            "saleprice" : "93,000",
-            "content" : "세련된 도시녀 & 커리어우먼의 무드~ 격식미와 멋스러움 한벌이면 OK",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/015.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/016.jpg",
-            "title" : "포엘벨트자켓팬츠세트",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "",
-            "saleprice" : "63,000",
-            "content" : "포멀한 수트에 화사함을 입혔어요 ♡ 라인감 있는 슬림핏으로 비율감 까지 한단계 업그레이",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/016.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/017.jpg",
-            "title" : "크리스셔링원피스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "62,000원",
-            "saleprice" : "55,000",
-            "content" : "스테디셀러 디자인 ! 봄ver. 업그레이드 ♡ 셔링 주름으로 몸매 보정 효과가 있어요 :)",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/017.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/018.jpg",
-            "title" : "리엔지페플럼원피스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "82,000원",
-            "saleprice" : "77,000",
-            "content" : "꾸준히 사랑받는 스/테/디/셀/러 페플럼 디자인~ 입기만 했을 뿐인데 우아함이 물씬해요",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/018.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/019.jpg",
-            "title" : "체론더블자켓원피스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "77,000원",
-            "saleprice" : "65,000",
-            "content" : "입체미로 매력이 100% ! 마치 투피스를 입은 듯한 디테일로 커버와 포인트 둘다 OK !",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/019.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/020.jpg",
-            "title" : "오즈진주플레어원피스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "71,000원",
-            "saleprice" : "63,000",
-            "content" : "비타민 과즙미 색감의 한눈에 반하게 되요 ♡ 플레어 라인감으로 여성스러움이 두배에요",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/020.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/021.jpg",
-            "title" : "더블스퀘어원피스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "",
-            "saleprice" : "63,000",
-            "content" : "더블버튼의 클래식함과 프렌치 감성 물~씬 ! 아방한 퍼프 소매 디자인으로 커버와 분위기 미인 OK",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/021.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/022.jpg",
-            "title" : "헤이즈트위드세트",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "107,000원",
-            "saleprice" : "88,000",
-            "content" : "풍성하고 로맨틱한 카라 디테일로 시선을 사로잡는 로맨틱한 무드의 트위드 셋업",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/022.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/023.jpg",
-            "title" : "카라더블자켓원피스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "",
-            "saleprice" : "63,000",
-            "content" : "세련스러운 더블버튼 원피스~ 격식미 아웃핏의 정석이에요 !",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/023.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/024.jpg",
-            "title" : "진주페플럼퍼프블라우스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "50,000원",
-            "saleprice" : "77,000",
-            "content" : "자켓의 실루엣으로 스타일 UP↑ 페플럼 라인으로 앞,옆,뒤 어디서 봐도 반해요 ♡",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/024.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/025.jpg",
-            "title" : "슬로벤자켓세트",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "",
-            "saleprice" : "66,000",
-            "content" : "투피스로도 단독으로도 즐길 수 있는 고급스러운 페플럼 디자인의 셋업",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/025.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/026.jpg",
-            "title" : "위즈카라트위드원피스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "95,000원",
-            "saleprice" : "88,000",
-            "content" : "악세사리 필요없는 블링 비주얼 ♡ 트렌디한 감각을 겸비했어요 ~",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/026.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/027.jpg",
-            "title" : "러브트위드페플럼자켓",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "",
-            "saleprice" : "63,000",
-            "content" : "페플럼 실루엣의 홀릭~♡ 이보다 예쁠 수 없는 백점만점 퀄리티!",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/027.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         },
         {
-            "img" : "./images/pd/images/028.jpg",
-            "title" : "리샤배색트위드원피스",
-            "color" : ["black", "navy", "gray"],
-            "delprice" : "",
-            "saleprice" : "63,000",
-            "content" : "블랙 & 화이트의 조합과 쥬얼버튼의 완벽한 콜라보레이",
-            "news" : ["신상10%", "핫딜할인5%"]
+            "img": "images/pd/028.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
+        },
+        {
+            "img": "images/pd/029.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
+        },
+        {
+            "img": "images/pd/030.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
+        },
+        {
+            "img": "images/pd/031.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
+        },
+        {
+            "img": "images/pd/032.jpg",
+            "title":"라타스퀘어원피스",
+            "color": ["black", "pink", "gray"],
+            "delprice": "71,000원",
+            "saleprice": "63,900원",
+            "content": "미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news": ["신상10%", "핫딜할인5%"]
         }
-
     ]
 }
